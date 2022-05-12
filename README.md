@@ -1,0 +1,1 @@
+most of the code here is copied from https://www.hackster.io/FilippoOnesti/esp8266-clock-using-max7219-led-matrix-display-b036c7. I am thinking of changing adafruits library so its lighterweight. also, this is purely wifi. No extra devices. just the 8266 and the display.
